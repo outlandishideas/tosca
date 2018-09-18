@@ -9,7 +9,7 @@ imports:
 
 repositories:
   docker_hub: https://hub.docker.com/
-  outlandish_registry: outlandish_registry_url.com/
+  outlandish_registry: https://registry.outlandish.com/
 
 topology_template:
   inputs:
